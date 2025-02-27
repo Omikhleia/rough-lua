@@ -8,6 +8,8 @@ This a Lua port of the [Rough.js](https://roughjs.com/) library.
 
 It is a small graphics library that lets you draw lines, polygons and curves in a sketchy, hand-drawn-like, style.
 
+![Some rough shapes](./some-rough-shapes.png)
+
 ## Features
 
 Most of the features of the original library are available in this port.

@@ -2,7 +2,7 @@
 
 [![license](https://img.shields.io/github/license/Omikhleia/rough-lua?label=License)](LICENSE)
 [![Luacheck](https://img.shields.io/github/actions/workflow/status/Omikhleia/rough-lua/luacheck.yml?branch=main&label=Luacheck&logo=Lua)](https://github.com/Omikhleia/rough-lua/actions?workflow=Luacheck)
-[![Luarocks](https://img.shields.io/luarocks/v/Omikhleia/rough-lua?label=Luarocks&logo=Lua)](https://luarocks.org/modules/Omikhleia/rough-lua)
+[![Luarocks](https://img.shields.io/luarocks/v/Omikhleia/rough?label=Luarocks&logo=Lua)](https://luarocks.org/modules/Omikhleia/rough)
 
 This a Lua port of the [Rough.js](https://roughjs.com/) library.
 

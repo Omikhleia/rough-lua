@@ -52,6 +52,6 @@ In February 2025, the code was extracted and made into a standalone module.
 
 ## License
 
-The code and samples in this repository are released under the MIT License, (c) 2022-2023, 2025 Omikhleia, Didier Willis.
+The code and samples in this repository are released under the MIT License, (c) 2022-2025 Omikhleia, Didier Willis.
 
 The original JavaScript-based [Rough.js](https://github.com/rough-stuff/rough) library is released under the MIT License, (c) 2019 Preet Shihn.
